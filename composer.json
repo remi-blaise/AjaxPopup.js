@@ -1,0 +1,17 @@
+{
+    "name":         "zzortell/zz-ajaxpopupjs-bundle",
+    "description":  "AjaxPopup.js is a jQuery plugin which displays HTML requested by Ajax in a popup.",
+    "keywords":     ["ajax", "ajax-form", "symfony3-bundle", "popup", "ajax-popup"],
+    "type":         "symfony-bundle",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name": "Rémi Blaise",
+            "email": "remi.blaise@gmx.fr",
+            "homepage": "http://php-zzortell.rhcloud.com/"
+        }
+    ],
+    "autoload":     {
+        "psr-4": { "Zz\\AjaxPopupJsBundle\\": "" }
+    }
+}

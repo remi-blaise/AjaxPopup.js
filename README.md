@@ -5,9 +5,9 @@ AjaxPopup.js is a jQuery plugin which allows you to focus on backend when you ju
 
 AjaxPopup.js is able to follow links and handle form submission.
 
-Can be used with Symfony or standalone.
+Can be used with Symfony 3 or standalone.
 
-An example application made with Symfony is available [here](https://github.com/Zzortell/AjaxPopupExample).
+An example application made with Symfony 3 is available [here](https://github.com/Zzortell/AjaxPopupExample).
 
 ## Installation
 
@@ -35,11 +35,11 @@ Include AjaxPopup.css:
 
 Don't forget to replace `...` by the installation folder.
 
-### Symfony installation
+### Symfony 3 installation
 
 Download via Composer:
 ```bash
-composer require zz/ajaxpopupjs
+composer require zzortell/zz-ajaxpopupjs-bundle
 ```
 
 Enable bundle in the kernel:
