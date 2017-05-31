@@ -7,6 +7,8 @@ AjaxPopup.js is able to follow links and handle form submission.
 
 Can be used with Symfony or standalone.
 
+An example application made with Symfony is available [here](https://github.com/Zzortell/AjaxPopupExample).
+
 ## Installation
 
 ### Standalone installation
