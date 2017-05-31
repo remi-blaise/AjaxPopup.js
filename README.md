@@ -11,7 +11,7 @@ Can be used with Symfony or standalone.
 
 ### Standalone installation
 
-Download this folder: [src/Zz/AjaxPopupJsBundle/Resources/public/](https://github.com/Zzortell/AjaxPopup.js/tree/master/src/Zz/AjaxPopupJsBundle/Resources/public).
+Download this folder: [src/Zz/AjaxPopupJsBundle/Resources/public/](https://github.com/Zzortell/AjaxPopup.js/tree/master/Resources/public).
 
 Include jQuery in your project:
 ```html
