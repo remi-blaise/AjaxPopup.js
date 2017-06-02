@@ -89,7 +89,7 @@ Step 1: Make AjaxPopup.js handle the request of a popup.
 ```html
 <script type="text/javascript">
     $(document).ready(function() {
-        var popup = $('#ajax_popup_container').AjaxPopup({
+        var popup = $.AjaxPopup({
             // This is default configuration
 
             "overlay_color": "rgba(0,0,0,0.2)",
